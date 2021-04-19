@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "618255480766",
+    "project_id": "smstesteapp-9a0b6",
+    "storage_bucket": "smstesteapp-9a0b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618255480766:android:80e8372a4bb93d60496bef",
+        "android_client_info": {
+          "package_name": "com.boasvendasonline.smstesteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618255480766-88sqc47qc68hotv4dkq69hdmlmu1gdcn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.boasvendasonline.smstesteapp",
+            "certificate_hash": "d6ca109185a8bd036dd2dad8ec60ab4cc135235d"
+          }
+        },
+        {
+          "client_id": "618255480766-bt8pgqp3jnglo5v1dpqs6bvp1m5mj5i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrE2ssnvCeqDOpJ8lh_6rUe8z95ko8Z8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618255480766-bt8pgqp3jnglo5v1dpqs6bvp1m5mj5i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
