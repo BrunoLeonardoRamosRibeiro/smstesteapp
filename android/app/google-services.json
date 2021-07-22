@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "618255480766-6lnuamcv64v51v2huhqjlce6mbrvttfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.boasvendasonline.smstesteapp",
+            "certificate_hash": "cd0f60d3f4bd447bbd156e28cd3a4a080df4da00"
+          }
+        },
+        {
           "client_id": "618255480766-88sqc47qc68hotv4dkq69hdmlmu1gdcn.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
